@@ -1,0 +1,29 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "comp3123 week 4 lab exercise",
+  "main": "101292266_COMP3123-exec04.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 101292266_COMP3123-exec04.js",
+    "dev": "nodemon 101292266_COMP3123-exec04.js"
+  },
+  "keywords": [
+    "comp3123",
+    "week",
+    "4",
+    "wk",
+    "lab",
+    "exercise",
+    "LeAnNguyen",
+    "101292266"
+  ],
+  "author": "Le An Nguyen - 101292266",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
